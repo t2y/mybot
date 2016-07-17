@@ -1,0 +1,2 @@
+# mybot
+slackbot sample
