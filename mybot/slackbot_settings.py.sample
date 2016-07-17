@@ -1,0 +1,15 @@
+# Settings for slackbot
+
+# API Token for Bot integration
+# https://your-team.slack.com/services/XXXXXXXXX
+API_TOKEN = 'your-api-token'
+
+DEFAULT_REPLY = 'コマンドが不明です。ヘルプを参照してください'
+
+ERRORS_TO = 'somewhere ...'
+
+PLUGINS = [
+    'mybot.plugins',
+]
+
+ALIASES = '$'
